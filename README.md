@@ -1,3 +1,21 @@
+# Ethiopian Kebele Management System
+
+## Run with Docker
+```bash
+docker-compose up -d --build
+
+
+
+
+
+
+
+
+
+
+
+
+
 kebele_management/
 ├── backend/
 │   ├── manage.py
